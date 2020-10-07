@@ -1,0 +1,41 @@
+body {
+    font-family: Open Sans, sans-serif;
+}
+
+.imagen-footer {
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+
+.font-weight-bold {
+    text-align: center;
+}
+
+h1 {
+    color: #707070;
+}
+
+h4 {
+    font-size: 2rem;
+    text-align: right;
+}
+
+.footer {
+    height: 184px;
+}
+
+.container {
+    width: 1280px;
+    height: 75px;
+}
+
+.tamaño {
+    text-align: center ;   
+}
+
+
+   
+
+
